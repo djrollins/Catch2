@@ -1,6 +1,9 @@
 codecov:
   branch: master
 
+comment:
+  layout: "diff"
+  
 coverage:
   ignore:
     - "projects/SelfTest"
